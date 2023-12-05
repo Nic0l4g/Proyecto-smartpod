@@ -6,12 +6,12 @@ Este proyecto contiene el código para el funcionamiento del dispositivo Smartpo
 
 Para utilizar el dispositivo, es necesario contar con:
 
-- Un IDE que soporte micro python y la ESP32. En este caso, se usó Thonny [1] para desarrollar el dispositivo.
-- Un driver para que el computador reconozca el dispositivo micro python. El driver se puede descargar de la carpeta de drive de archivos necesarios [2].
+- Un IDE que soporte micro python y la ESP32. En este caso, se usó Thonny para desarrollar el dispositivo.
+- Un driver para que el computador reconozca el dispositivo micro python. El driver se puede descargar de la carpeta de archivos necesarios.
 - Un archivo .bin para cargar micro python en la ESP32. El archivo también está en la carpeta de archivos necesarios.
 - Tres archivos .py que contienen el código principal y las bibliotecas necesarias para el funcionamiento del dispositivo. Los archivos se pueden encontrar en la carpeta de código del dispositivo de este repositorio.
 - Cuatro sensores: DHT11 (humedad y temperatura ambiente), sensor de humedad del suelo capacitivo, sensor de luz y pantalla oled de 4 pines.
-- Una base de datos en Firebase para almacenar y enviar los datos de los sensores. Se debe crear un proyecto en la página de Firebase y enlazarlo con la aplicación móvil siguiendo los pasos que se muestran en la documentación de Firebase [3].
+- Una base de datos en Firebase para almacenar y enviar los datos de los sensores. Se debe crear un proyecto en la página de Firebase y enlazarlo con la aplicación móvil siguiendo los pasos que se muestran en la documentación de Firebase.
 - Android Studio para la creación de la aplicación móvil. Se debe importar el código de la aplicación que se encuentra en la carpeta de código de la aplicación de este repositorio.
 
 ## Instalación
