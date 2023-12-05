@@ -41,5 +41,6 @@ Para usar la aplicación móvil, se debe crear una cuenta de usuario con un corr
 
 ## Autores
 ° Nicolas Garcia Guerrero - Estudiante de ingenieria electronica - Universidad Nacional de Colombia (sede Bogota).
+
 ° Juan Felipe Velasquez Jaramillo - Estudiante de ingenieria electronica - Universidad Nacional de Colombia (sede Bogota).
 
